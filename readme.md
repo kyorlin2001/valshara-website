@@ -1,1 +1,3 @@
 This is my personal website and home of the valshara projects.  This included the mud client, the mud itself and my personal portfolio.  There will be additions in the near future as I go through the backend which is a combiniation of php, node, and java.  I will also be adding a django site to the mix with AI and LLM integration demos.
+
+It is self hosted on a hostwinds VPS where I also have configured an email server, DNS, and 3 virtual webservers.
