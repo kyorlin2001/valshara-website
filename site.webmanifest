@@ -1,0 +1,17 @@
+{
+  "short_name": "Valshara Games",
+  "name": "Valshara Games Website",
+  "icons": [{
+    "src": "/Icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "/Icon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
